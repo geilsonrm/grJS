@@ -1,0 +1,26 @@
+{
+  "name": "grjs",
+  "description": "Uma biblioteca com diversos métodos para simplifica a manipulação de dados numa variável.",
+  "readmeFilename": "README.md",
+  "keywords": ["banco", "database", "fake", "javascript"],
+  "tags": ["array", "crud", "json", "object", "javascript"],
+  "version": "0.0.1",
+  "author": {
+    "name": "Geilson Ribeiro Mirandola",
+    "email": "geilsonrm@hotmail.com",
+    "homepage": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geilsonrm/grjs"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geilsonrm/grjs/issues"
+  },
+  "homepage": "https://github.com/geilsonrm/grjs#readme"
+}
